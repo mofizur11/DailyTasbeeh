@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Daily Tasbeeh</string>
+    <string name="zero">00</string>
+
+    <string name="rate_dialog_title">Please Rate Us</string>
+    <string name="rate_dialog_message">We\'re working hard to make this app as better as possible. Would you mind by reviewing app to play store? It won\'t take more than 1 minute.</string>
+    <string name="rate_dialog_ok">Sure, Let\'s review</string>
+    <string name="rate_dialog_cancel">May be next time</string>
+    <string name="rate_dialog_no">I don\'t care</string>
+</resources>
